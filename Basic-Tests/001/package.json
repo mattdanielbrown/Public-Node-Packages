@@ -1,0 +1,28 @@
+{
+  "name": "mdb-very-first-go-at-an-npm-package",
+  "version": "1.0.0",
+  "description": "Just trying some shit out.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattdanielbrown/mdb-very-first-go-at-an-npm-package.git"
+  },
+  "keywords": [
+    "test",
+    "package",
+    "code-generation",
+    "web-tools",
+    "frontend"
+  ],
+  "author": "Matthew Daniel Brown",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/mattdanielbrown/mdb-very-first-go-at-an-npm-package/issues"
+  },
+  "homepage": "https://github.com/mattdanielbrown/mdb-very-first-go-at-an-npm-package#readme"
+}
